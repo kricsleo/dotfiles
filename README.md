@@ -1,8 +1,6 @@
-# new-computer
+# Dotfiles
 
-🧙 Init my workspace in one stop.
-
-Including followings: 
+🧙 Including my dotfiles as followings: 
 
 1. [ ] Terminal: oh-my-zsh with plugins, iterms2 or others?
 2. [ ] Npm: nrm/nvm/registry
