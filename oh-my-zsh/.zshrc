@@ -22,6 +22,9 @@ alias w="j workspace"
 alias d="nr dev"
 alias s="nr start"
 alias b="nr build"
+alias r="nr release"
+# open SourceTree in current dir
+alias st="open -a SourceTree ."
 
 # Key bindings
 bindkey '\t' end-of-line
