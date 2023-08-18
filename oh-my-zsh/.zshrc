@@ -23,6 +23,8 @@ alias d="nr dev"
 alias s="nr start"
 alias b="nr build"
 alias r="nr release"
+# clean screen
+alias c="clear && printf '\e[3J'"
 # open SourceTree in current dir
 alias st="open -a SourceTree ."
 
